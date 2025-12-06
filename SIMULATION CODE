@@ -262,4 +262,4 @@ int main(void) {
     free_all(&h);
     printf("Exiting simulator. Goodbye.\n");
     return 0;
-} WHATS THIS CODE IMPLEMENTATION TOPIC
+} 
